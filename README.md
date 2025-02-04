@@ -1,9 +1,3 @@
-# Bank_Managment_System
-
-Here's a README for your GitHub repository that describes your project. Feel free to customize it further if needed:
-
----
-
 # Bank Management System
 
 ## Overview
